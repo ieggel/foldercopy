@@ -2,6 +2,7 @@
 
 #Define help string
 help='Usage: foldercopy [OPTION]... [DEST_DIR] 
+This script copies the current folder to a destination folder.
 Options:
   -i include files (type f) in root dir
      default=false
